@@ -1,16 +1,74 @@
-## Hi there 👋
+# 👋 Hi, I'm Ahmed Makram!
 
-<!--
-**ahmed2oo4/ahmed2oo4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Junior Backend Developer | .NET Specialist | AI Enthusiast
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Welcome to my GitHub profile! I'm currently a **Junior Backend Developer** specializing in **.NET technologies** and a student at the **Faculty of Computer Science and Artificial Intelligence, BSNU**.
+
+![Profile Banner](https://example.com/your-dynamic-image-url.jpg) <!-- Replace with your dynamic image URL -->
+
+### 🛠️ Technologies & Tools
+
+- **Languages**: C#, Python, SQL
+- **Frameworks**: .NET Framework 4.7.2, .NET Framework 4.8, .NET 8
+- **Databases**: SQL Server, Entity Framework
+- **Tools**: Visual Studio, Git, GitHub, LINQ
+- **Other Skills**: Problem solving, teamwork, version control
+
+---
+
+### 🌱 I’m Currently Learning
+
+- Enhancing my skills in **.NET 8** and **C#**.
+- Connecting **SQL databases** to Visual Studio and improving **database management**.
+- **Converting C# code to Python**.
+- Exploring **frontend technologies** to create visually appealing user interfaces.
+
+---
+
+### 📚 Education
+
+- **Bachelor's Degree in Computer Science and Artificial Intelligence** (Expected Graduation: July 2026)
+  - Key Courses:
+    - Data Mining and Predictive Analytics
+    - Machine Learning, Deep Learning, NLP
+    - Blockchain Technologies, Cloud Computing
+    - Mobile Application Development
+
+---
+
+### 💼 Projects
+
+#### 1. **Sales and Inventory Management Program**
+A desktop application for managing sales and inventory operations.
+
+![Sales and Inventory Management](https://example.com/sales-inventory-image.jpg) <!-- Replace with your project image URL -->
+
+#### 2. **Library Management System**
+Developing a library management system with user and book management features using **.NET** and **SQL Server**.
+
+
+#### 3. **Portfolio Website**
+Built a personal website to showcase my projects and skills.
+
+
+---
+
+### 🔧 What I’m Working On
+
+- Publishing my **.NET** applications on **GitHub**.
+- Improving my **backend development** and cloud-based solutions.
+- Gaining expertise in **data analytics and AI** applications.
+
+---
+
+### 🤝 Let’s Connect
+
+- **GitHub**: [github.com/your-username](https://github.com/your-username)
+- **LinkedIn**: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+
+---
+
+Feel free to explore my repositories and reach out if you want to collaborate on exciting projects!
+
