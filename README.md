@@ -43,11 +43,8 @@ Welcome to my GitHub profile! I'm currently a **Junior Backend Developer** speci
 #### 1. **Sales and Inventory Management Program**
 A desktop application for managing sales and inventory operations.
 
-![Sales and Inventory Management](https://example.com/sales-inventory-image.jpg) <!-- Replace with your project image URL -->
-
 #### 2. **Library Management System**
 Developing a library management system with user and book management features using **.NET** and **SQL Server**.
-
 
 #### 3. **Portfolio Website**
 Built a personal website to showcase my projects and skills.
@@ -65,9 +62,8 @@ Built a personal website to showcase my projects and skills.
 
 ### 🤝 Let’s Connect
 
-- **GitHub**: [github.com/your-username](https://github.com/your-username)
-- **LinkedIn**: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-
+- **GitHub**: (https://github.com/ahmed2oo4)
+- **LinkedIn**: www.linkedin.com/in/ahmed-makram-0706602a3
 ---
 
 Feel free to explore my repositories and reach out if you want to collaborate on exciting projects!
