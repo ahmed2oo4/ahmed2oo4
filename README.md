@@ -6,7 +6,7 @@
 
 Welcome to my GitHub profile! I'm currently a **Junior Backend Developer** specializing in **.NET technologies** and a student at the **Faculty of Computer Science and Artificial Intelligence, BSNU**.
 
-![Profile Banner](https://github.com/ahmed2oo4/ahmed2oo4/blob/main/giphy.webp)) <!-- Replace with your dynamic image URL -->
+<img src="https://github.com/ahmed2oo4/ahmed2oo4/blob/main/giphy.webp" alt="Profile Banner" width="1000" /> <!-- Replace with your dynamic image URL -->
 
 ### 🛠️ Technologies & Tools
 
