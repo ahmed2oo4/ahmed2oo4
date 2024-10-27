@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Ahmed Makram!
 
-![Dynamic Gif](<iframe src="https://giphy.com/embed/1C8bHHJturSx2" width="480" height="259" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/the-it-crowd-chris-odowd-1C8bHHJturSx2">via GIPHY</a></p>)
+![Dynamic Gif](https://media.giphy.com/media/1C8bHHJturSx2/giphy.gif?cid=ecf05e47h35z6pq3neoxm1iawqy2qvhnkeotaspsnhkjjy3x&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
 **Junior Backend Developer** | **.NET Specialist** | **Computer Science & AI Student** (BSNU)
 
