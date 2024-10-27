@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Ahmed Makram!
 
-![Ahmed's Profile Picture](https://github.com/yourusername.png)
+![Ahmed's Profile Picture](https://github.com/giphy.webp)
 
 **Junior Backend Developer** | **.NET Specialist** | **Computer Science & AI Student** (BSNU)
 
@@ -31,6 +31,6 @@ Here are some of my recent projects:
 
 ## 📫 Get In Touch
 Feel free to reach out for collaboration, questions, or just to connect!
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
-- **LinkedIn**: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/yourprofile)
-- **Freelance Profile**: [Khamsat](https://khamsat.com/user/yourusername)
+- **Email**: [your-email@example.com](mailto:Ahmed01550858268@gmail.com)
+- **LinkedIn**: [linkedin.com/in/yourprofile](www.linkedin.com/in/ahmed-makram-0706602a3)
+
