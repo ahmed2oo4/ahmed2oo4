@@ -31,6 +31,6 @@ Here are some of my recent projects:
 
 ## 📫 Get In Touch
 Feel free to reach out for collaboration, questions, or just to connect!
-- **Email**: [mailto:Ahmed01550858268@gmail.com]
+- **Email**: mailto: (Ahmed01550858268@gmail.com)
 - **LinkedIn**: [www.linkedin.com/in/ahmed-makram-0706602a3]
 
